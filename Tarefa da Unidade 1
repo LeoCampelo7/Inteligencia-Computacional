@@ -1,0 +1,96 @@
+Defina com suas próprias palavras: (a) inteligência, (b) inteligência artificial, (c) agente, (d)racionalidade; (e) raciocínio lógico.
+
+Inteligência: Capacidade de aprender, compreender e fazer
+Inteligência computacional:  Inteligencia similar a humana exibida por mecanismos ou software
+Agente: Entidade que percebe e age.
+Racionalidade: qualidade de ser sensato, com base em fatos ou razões.
+Raciocínio logico: processo de estruturação de pensamento de acordo com as normas da lógica que permite chegar a uma determinada conclusão ou resolver um problema.
+
+2. Leia o artigo original de Turing sobre Al (Turing, 1950). No artigo, ele discute várias
+objeções à empresa proposta e ao teste de inteligência. Quais objeções ainda carregam
+peso? Suas refutações são válidas? Você pode pensar em novas objeções decorrentes do desenvolvimento desde que ele escreveu o jornal? No artigo, ele prevê que, até o ano 2000. um computador
+terá 30% de chance de passar no Teste de Turing de cinco minutos com um leigo.
+Que chance você acha que um computador teria hoje? Em mais 50 anos?
+LINK: https://phil415.pbworks.com/f/TuringComputing.pdf
+	
+  Acredito que aumentou consideravelmente, mas não sei estipular quanto, pois podemos ver aplicativos como: SIMSIMI, softbots e outros, que “conversam” com usuários.
+
+
+3. As ações reflexas (como recuar de um fogão quente) são racionais? Eles são inteligentes?
+
+Sim, são racionais, pois o corpo reage ao aumento da temperatura afim de evitar danos maiores, e é inteligente, pois recebe um dado “aumento de temperatura” e age da melhor forma possível “afastar”.
+
+
+4. Até que ponto os elementos abaixo são instâncias de sistemas de inteligência artificial?
+
+Scanner de código de barras para supermercados.
+Atua como sensor do agente
+Mecanismos de busca na web.
+Atua como agente
+Menus telefônicos ativados por voz.
+Atua como agente móvel, pois lida com telecomunicações.
+Algoritmos de roteamento da Internet que respondem dinamicamente ao estado da rede.
+Atua como agente móvel, pois lida com gerenciamento de redes.
+
+
+5. Muitos dos modelos computacionais de atividades cognitivas que foram propostos
+realizam operações matemáticas bastante complexas, como a convolução de uma imagem com um ou encontrar um mínimo da função entropia. A maioria dos humanos (e certamente todos os animais) nunca aprendem esse tipo de matemática, quase ninguém aprende antes da faculdade e quase não se pode calcular a convolução de uma função com um gaussiano na cabeça. Qual sentido faz dizer que o “sistema de visão” está fazendo esse tipo de matemática, enquanto uma pessoa real não tem ideia de como fazê-lo?
+	
+  Por diversas vezes resolvemos ou estipulamos resultados apenas olhando, diversas vezes nem percebemos que nessa estipulação do resultado, estamos usando diversas formulas ou experiencias.
+
+
+
+6. Por que a evolução tenderia a resultar em sistemas que agem racionalmente? Quais são os objetivos sistemas projetados para alcançar?
+Um sistema que percebe seu ambiente e toma atituades que maximizam suas chances de sucesso.
+
+
+7. A IA é uma ciência, ou é engenharia? Ou nenhuma ou ambas? Explicar.
+É um ramo da ciência,  o estudo de como fazer computadores realizarem coisas que, atualmente, os humanos fazem melhor.
+
+
+8. “Certamente os computadores não podem ser inteligentes – eles podem fazer apenas o que seus programadores dizem a eles pra fazer “. A afirmação de Liner é verdadeira e implica a primeira?
+	Acredito que ainda não somos capazes de criar uma máquina que consiga “aprender” a fazer de tudo, mas podemos fazer uma que resolva alguns problemas. Então, sim, uma implica a outra.
+
+
+9.”Certamente os animais não podem ser inteligentes – eles podem fazer apenas o que seus genes lhes dizem.”. A última afirmação é verdadeira e implica a primeira?
+	Acredito que não, pois eles agem por instinto. E eles podem aprender, compreender coisas até um certo nível, e fazê-las. 
+
+
+10. “Certamente animais, humanos e computadores não podem ser inteligentes – eles podem fazer apenas o que seus átomos constituintes são instruídos a fazer isso pelas leis da física. “A última afirmação é verdadeira, e isso implica o primeira?
+	É falsa, pois nós, humano, somos capazes de aprender e evoluir cada vez mais. Afinal, chegamos ao nível de contruirmos máquinas que se aproximam da inteligencia autonoma.
+
+
+11. Examine a literatura da IA ​​para descobrir se as seguintes tarefas atualmente podem ser executadas por computadores:
+
+a. Jogando um jogo decente de tênis de mesa (pingue-pongue).
+	Isso é possível de ser realizado por uma IA através do uso de sensores, braços mecanicos, entre outros.
+
+b. Dirigindo no centro do Cairo, Egito.
+	Isso é possível de ser executado. Atualemtente temos o google trabalhando no aperfeiçoamento desta tarefa.
+
+c. Dirigindo em Victorville, Califórnia.
+	Isso é possível de ser executado. Atualemtente temos o google trabalhando no aperfeiçoamento desta tarefa.
+
+d. Compra de uma semana de mantimentos no mercado.
+	É possível. Seria necessário a máquina coletar dados de consumos semanais para poder determinar uma estimativa do que seria necessário comprar.
+
+e Compra de uma semana de mantimentos na Web.
+	É possível. Seria necessário a máquina coletar dados de consumos semanais e tempo estimado para a chegada dos produtos. A partir disso essa seria capaz de fazer uma estimativa.
+
+f. Jogando um jogo decente de bridge em um nível competitivo.
+	É possível, afinal as maquinas já provaram que podem superar o homem quando se trata de jogos.
+
+g. Descobrir e provar novos teoremas matemáticos.
+	Seria capaz de provar, porém uma máquina ainda não tem tamanha autonomia para descobrir coisas do tipo. Contudo, a expectativa é que elas evoluam cada vez mais chegando a conquista diversos objetivos como este.
+
+h. Escrevendo uma história intencionalmente engraçada.
+	No momento, não seria possível, pois as máquinas ainda não conseguem compreender sentimentos humanos.
+
+i. Prestar consultoria jurídica competente em uma área jurídica especializada.
+	No momento, não seria possível, pois as máquinas ainda não conseguem compreender as necessidades humanas em diversas situações. Contudo, a expectativa é que elas evoluam cada vez mais chegando a conquista diversos objetivos como este.
+
+j. Traduzindo o inglês falado para o sueco falado em tempo real.
+	Sim, é possível.
+
+k Executando uma operação cirúrgica complexa.
+	No momento, não. Contudo, a expectativa é que elas futuramente consigam desenvolver determinada tarefa.
